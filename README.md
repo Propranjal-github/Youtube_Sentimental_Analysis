@@ -38,7 +38,7 @@ Given the rising need for real-time feedback analysis, we developed a platform t
 | Area       | Technologies Used           |
 |------------|-----------------------------|
 | Frontend   | React.js, HTML, CSS         |
-| Backend    | Python, Flask               |
+| Backend    | Python, Flask, Jinja        |
 | Scraping   | `youtube-comment-downloader`, `BeautifulSoup`, Selenium  
 | NLP        | Scikit-learn, NLTK  
 
